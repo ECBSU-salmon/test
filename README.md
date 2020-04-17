@@ -1,4 +1,4 @@
-# ECBSU salmon GitHub
+# MAR-salmon GitHub
 
 This is the core collection of functions used for the assessment of ECB/SU Atlantic Salmon.
 
